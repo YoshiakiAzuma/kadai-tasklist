@@ -1,2 +1,2 @@
-class Message < ApplicationRecord
+class Task < ApplicationRecord
 end
